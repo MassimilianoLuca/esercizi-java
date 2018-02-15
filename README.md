@@ -74,13 +74,13 @@ Dato un array di numeri interi, stampare i numeri pari che sono contenuti nell'a
 ## Esercizio 20 
 Stampare un triangolo della forma 
 
-*
+1
 
-* *
+11
 
-* * *
+111
 
-* * * *
+1111
 
 con n righe (n stabilito dall'utente)
 
