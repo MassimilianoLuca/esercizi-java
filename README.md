@@ -73,27 +73,41 @@ Dato un array di numeri interi, stampare i numeri pari che sono contenuti nell'a
 
 ## Esercizio 20 
 Stampare un triangolo della forma 
+
 *
-**
-***
-****
+
+* *
+
+* * *
+
+* * * *
 
 con n righe (n stabilito dall'utente)
 
 ## Esercizio 21
 Stampare un triandolo della forma 
+
 1
+
 12
+
 123
+
 1234
+
 con n righe (n stabilito dall'utente)
 
 ## Esercizio 22
 Stampare un triandolo della forma 
+
 1
+
 22
+
 333
+
 4444
+
 con n righe (n stabilito dall'utente)
 
 ## Esercizio 23
