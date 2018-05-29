@@ -1,3 +1,5 @@
 # Esercizi Java
 
-Pull di esercizi divisi per categorie 
+Lista di esercizi trovati in internet utili ad imparare Java 
+
+*ITA only*
